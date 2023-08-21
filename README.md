@@ -10,3 +10,7 @@
    2. add product images
    3. render products
    4. style products
+
+# Day 2:
+
+1. Update the App.js file : update the screen and link function;
