@@ -16,17 +16,14 @@ main {
   background-color: #f1bd1e;
   color: #000000;
 }
-
 .rating span {
   color: #ffc000;
 }
-
 .products {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
-
 .product {
   border: 1px #404040 solid;
   margin: 1rem;
@@ -43,4 +40,7 @@ main {
 }
 .img-thumbnail {
   height: 80px;
+}
+.small-container {
+  max-width: 600px;
 }
