@@ -42,7 +42,10 @@ export default function SigninScreen() {
   }, [navigate, redirect, userInfo]);
 
   return (
-    <Container className="small-container">
+    <Container
+      className="container small-container"
+      style={{ maxWidth: '600px' }}
+    >
       <Helmet>
         <title>Sign In</title>
       </Helmet>
