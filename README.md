@@ -107,3 +107,7 @@
     1. show cart items, payment and address
     2. handle place order action
     3. create order create api
+28. Create Order Screen
+    1. create backend api for order/:id
+    2. fetch order api in frontend
+    3. show order information in 2 cloumns
