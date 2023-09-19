@@ -1,0 +1,12 @@
+{
+  "folders": [
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "debug.console.fontSize": 15,
+    "scm.inputFontSize": 15,
+    "terminal.integrated.fontSize": 14
+  }
+}
